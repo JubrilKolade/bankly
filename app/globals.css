@@ -252,9 +252,9 @@
     @apply flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto;
   }
 
-  .mobilenav-sheet_close {
-    @apply flex gap-3 items-center p-4 rounded-lg w-full max-w-60;
-  }
+    .mobilenav-sheet_close {
+        @apply flex gap-3 items-center p-4 rounded-lg w-full max-w-60;
+    }
 
   /* PlaidLink */
   .plaidlink-primary {
