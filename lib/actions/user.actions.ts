@@ -242,7 +242,7 @@ export const exchangePublicToken = async ({
   } catch (error) {
     console.error("An error occurred while creating exchanging token:", error);
   }
-}
+} 
 
 export const getBanks = async ({ userId }: getBanksProps) => {
   try {
